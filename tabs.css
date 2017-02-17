@@ -1,0 +1,17 @@
+.nav{
+  background-color: rgb(255, 142, 120);
+   border-style: solid;
+
+}
+
+a.navigation:hover{
+text-decoration: none;
+  background-color: yellow;
+  color: red;
+}
+
+a.navigation{
+  text-decoration: none;
+  font-family: Impact, Charcoal, sans-serif;
+  font-style: italic;
+}
